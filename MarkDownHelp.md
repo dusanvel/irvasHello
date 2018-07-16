@@ -15,36 +15,37 @@ _This will also be italic_
 __This will also be bold__
 
 _You **can** combine them_
-Lists
+## Lists
 
-Unordered
+### Unordered
 
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
-Ordered
+### Ordered
 
 1. Item 1
 1. Item 2
 1. Item 3
    1. Item 3a
    1. Item 3b
-Images
+## Images
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)  
-Links
+## Links
 
 http://github.com - automatic!
-[GitHub](http://github.com)  
-Blockquotes
+[GitHub](http://github.com) 
+
+## Blockquotes
 
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
-Inline code
+## Inline code
 
 I think you should use an
 `<addr>` element here instead.
@@ -54,7 +55,7 @@ GitHub.com uses its own version of the Markdown syntax that provides an addition
 
 Note that some features of GitHub Flavored Markdown are only available in the descriptions and comments of Issues and Pull Requests. These include @mentions as well as references to SHA-1 hashes, Issues, and Pull Requests. Task Lists are also available in Gist comments and in Gist Markdown files.
 
-Syntax highlighting
+## Syntax highlighting
 
 Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:
 
@@ -77,7 +78,7 @@ Here’s an example of Python code without syntax highlighting:
 def foo():
     if not bar:
         return True
-Task Lists
+## Task Lists
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
@@ -85,7 +86,7 @@ Task Lists
 - [ ] this is an incomplete item
 If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
 
-Tables
+## Tables
 
 You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |:
 
