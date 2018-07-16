@@ -1,12 +1,12 @@
-Syntax guide
+# Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files.
 
-Headers
+## Headers
 
 # This is an h1 tag
 ## This is an h2 tag
 ###### This is an h6 tag
-Emphasis
+## Emphasis
 
 *This text will be italic*
 _This will also be italic_
@@ -33,11 +33,11 @@ Ordered
 Images
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](url)  
 Links
 
 http://github.com - automatic!
-[GitHub](http://github.com)
+[GitHub](http://github.com)  
 Blockquotes
 
 As Kanye West said:
